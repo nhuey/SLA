@@ -6,6 +6,8 @@ output:
   html_document: 
     keep_md: yes
   pdf_document: default
+  github_document:
+    pandoc_args: --webtex
 ---
 
 
